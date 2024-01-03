@@ -1,18 +1,3 @@
-## YouTube Videl Tutorial 
-
-[![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/watch?v=EXICATDyYWI&lc=UgzyiL0K3akxPeX9U8F4AaABAgm)
-
-This is a project to setup your very own VTuber AI similar to "Neuro-Sama".
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* Python 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
