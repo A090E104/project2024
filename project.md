@@ -50,7 +50,9 @@ AI直播主系統：
 其中ChatGPT將以文字形式回應觀眾的留言。
 隨後可以將ChatGPT的回應文字儲存為txt文件，然後使用Google Text-to-Speech將其轉換為MP3音訊檔案。 
 接下來可以使用VLC媒體播放器來播放這些產生的MP3檔案。
-然後將該音訊傳遞給OBS（Open Broadcaster Software）和Live2D。 Live2D是一種動態虛擬人物模型製作和呈現的工具，可以使用它來建立虛擬主播或虛擬角色。在Live2D中，可以設定虛擬人物的口型和動畫，以符合ChatGPT產生的語音內容。 
+然後將該音訊傳遞給OBS（Open Broadcaster Software）和Live2D。
+Live2D是一種動態虛擬人物模型製作和呈現的工具，可以使用它來建立虛擬主播或虛擬角色。
+在Live2D中，可以設定虛擬人物的口型和動畫，以符合ChatGPT產生的語音內容。 
 Live2D可以將虛擬人物的動畫和口型以視訊串流的形式傳遞給OBS。
 ```
 
