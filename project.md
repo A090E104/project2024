@@ -161,5 +161,15 @@ Twitch社群：Twitch提供了廣泛的用戶社群，包括不同類型的主�
 
 # 第三章 專題系統架構
 
-![image](https://github.com/A090E104/project2024/assets/114580308/a6d2f0b6-a36f-4e91-857e-937820a76993)
+![image](https://github.com/A090E104/project2024/assets/114580308/86968e10-fdba-4497-8a01-a82cd6d161cd)
+
+當將Twitch留言與ChatGPT結合時，可以實現一種有趣的互動形式，
+其中ChatGPT將以文字形式回應觀眾的留言。
+隨後可以將ChatGPT的回應文字儲存為txt文件，然後使用Google Text-to-Speech將其轉換為MP3音訊檔案。 
+接下來可以使用VLC媒體播放器來播放這些產生的MP3檔案。
+然後將該音訊傳遞給OBS（Open Broadcaster Software）和Live2D。 Live2D是一種動態虛擬人物模型製作和呈現的工具，可以使用它來建立虛擬主播或虛擬角色。在Live2D中，可以設定虛擬人物的口型和動畫，以符合ChatGPT產生的語音內容。 
+Live2D可以將虛擬人物的動畫和口型以視訊串流的形式傳遞給OBS。 
+OBS是一種廣泛用於直播和錄製的開源軟體，它可以將不同的媒體來源（包括視訊、音訊和影像）合併到一個直播串流中。
+在OBS中，可以將Live2D的虛擬人物視訊串流和來自VLC的音訊串流進行合併，最後可以使用OBS將產生的直播串流傳輸到Twitch，讓觀眾可以觀看虛擬人物與ChatGPT之間的互動對話。
+
 
